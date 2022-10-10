@@ -1,7 +1,7 @@
 # Coffee_Machine
 Imitation of Street Coffee Machine Gadget, where Customer can buy different types of coffees: Espresso, Latte, Cappuccino.
-He/She can see information about price and ingredients for each coffee, also Customer can check how much recources 
-is left in the machine. There is special button for Machine Owners and by using special Password, he/she can check
+Customer can see information about price and ingredients for each coffee, also Customer can check how much recources 
+are left in the machine. There is special button for Machine Owners and by using special Password, he/she can check
 quantity of money agregated in the machine.
 
 # App:
